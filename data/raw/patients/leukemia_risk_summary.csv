@@ -1,0 +1,2 @@
+patient_id,risk_score,flagged_genes
+patient123,5.0,TP53;NPM1
