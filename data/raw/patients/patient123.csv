@@ -1,0 +1,4 @@
+gene,variant,effect
+TP53,p.R248Q,missense
+NPM1,frameshift,loss_of_function
+GATA2,p.T354M,missense
